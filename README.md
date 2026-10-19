@@ -21,7 +21,7 @@ One-click fix for a Windows PC whose **date or time keeps going wrong** (for exa
 2. Double-click it and accept the administrator prompt (**Yes**).
 3. Wait until you see your time zone and the current time, then press any key.
 
-> If Windows shows **"Windows protected your PC"**, click **More info** then **Run anyway**. The file is a plain-text script: you can open it in Notepad and read everything it does.
+> If Windows shows **"Open File - Security Warning"** (*the publisher could not be verified*), click **Run**. If it shows **"Windows protected your PC"**, click **More info** then **Run anyway**. The file is a plain-text script: you can open it in Notepad and read everything it does.
 
 ### Options
 Run it from a command prompt with `keeptz` to **keep your current time zone** (no IP lookup):
@@ -71,7 +71,7 @@ Provided "as is" under the MIT license. Use at your own risk.
 2. شغّله بنقرتين ووافق على طلب صلاحيات المسؤول (**Yes**).
 3. انتظر حتى تظهر المنطقة الزمنية والوقت الحالي، ثم اضغط أي زر.
 
-> إذا ظهرت رسالة **Windows protected your PC**، اضغط **More info** ثم **Run anyway**. الملف نص عادي يمكنك فتحه بالمفكرة وقراءة كل ما يفعله.
+> إذا ظهرت نافذة **Open File - Security Warning** (الناشر غير معروف) فاضغط **Run** (في ويندوز الفرنسي: **Exécuter**). وإذا ظهرت **Windows protected your PC** فاضغط **More info** ثم **Run anyway**. الملف نص عادي يمكنك فتحه بالمفكرة وقراءة كل ما يفعله.
 
 ### خيار إضافي
 لإبقاء منطقتك الزمنية الحالية (دون طلب IP)، شغّله من موجه الأوامر هكذا:
