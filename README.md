@@ -2,7 +2,9 @@
 
 [English](#english) | [العربية](#العربية)
 
-![Screenshot of Fix Windows Time running](docs/screenshot.png)
+<p align="center">
+  <img width="700" alt="Screenshot of Fix Windows Time running" src="docs/screenshot.png" />
+</p>
 
 ---
 
